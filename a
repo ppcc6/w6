@@ -4,18 +4,18 @@
 <students>
 	<heading>Student Database</heading>
 	<student>
-		<roll>Roll No. : 20dx13</roll>
-		<name>Name : Nithin</name>
-		<year>Year of Joining : 2020</year>
-		<college>Name of the college : PSG</college>
-		<email> E-mail : 20dx13@psgpolytech.ac.in </email>
+		<roll>Roll No. : </roll>
+		<name>Name : </name>
+		<year>Year of Joining : </year>
+		<college>Name of the college : </college>
+		<email> E-mail : </email>
 	</student>
 	<student>
-		<roll>Roll No. : 20dx01</roll>
-		<name>Name : Ajay</name>
-		<year>Year of Joining : 2020</year>
-		<college>Name of the college : PSG</college>
-		<email> E-mail : 20dx01@psgpolytech.ac.in </email>
+		<roll>Roll No. : </roll>
+		<name>Name : </name>
+		<year>Year of Joining :</year>
+		<college>Name of the college : </college>
+		<email> E-mail : </email>
 	</student>
 </students>
 
