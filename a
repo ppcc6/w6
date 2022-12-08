@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="6a.css"?>
+
+<students>
+	<heading>Student Database</heading>
+	<student>
+		<roll>Roll No. : 20dx13</roll>
+		<name>Name : Nithin</name>
+		<year>Year of Joining : 2020</year>
+		<college>Name of the college : PSG</college>
+		<email> E-mail : 20dx13@psgpolytech.ac.in </email>
+	</student>
+	<student>
+		<roll>Roll No. : 20dx01</roll>
+		<name>Name : Ajay</name>
+		<year>Year of Joining : 2020</year>
+		<college>Name of the college : PSG</college>
+		<email> E-mail : 20dx01@psgpolytech.ac.in </email>
+	</student>
+</students>
+
+
+
+students {
+	color: black;
+	background-color : yellow;
+	width: 100%;
+}
+heading {
+	color: green;
+	font-size : 40px;
+	background-color : powderblue;
+}
+heading, roll, name, year, college, email {
+	display : block;
+}
+
+
